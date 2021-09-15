@@ -1,0 +1,3 @@
+StRe_no	 St_Name	 St_age
+                 687	 nimqa 	32	
+                 689	 jggj 	45	
